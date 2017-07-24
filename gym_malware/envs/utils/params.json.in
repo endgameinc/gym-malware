@@ -1,0 +1,7 @@
+{
+  "url":"URL",
+  "username": "USERNAME",
+  "password": "PASSWORD",
+  "version": "VERSION",
+  "threshold": 50
+}
